@@ -1,5 +1,3 @@
-# Stats-preview-card-component-challenge-hub
-
 Challenge Frontend Mentor | Stats Preview Card Component 
 
 HTML, CSS and Flexbox Solution
